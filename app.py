@@ -8,6 +8,13 @@ st.set_page_config(page_title="Aircraft Performance Analysis", page_icon="✈️
 
 # ----------------------------- PAGE STYLE ------------------------------------
 st.title("G Pranav Kiruthic(1MS24AS059)"\n"Vishal(1MS24AS059)"\n"✈️ Aircraft Performance Analysis")
+st.markdown("""
+**Developed by:**
+
+Gajulla Pranav Kiruthic (1MS24AS059)
+
+Vishal (1MS24AS059)
+""")
 st.caption("Interactive Flight Dynamics calculator | Based on the supplied aircraft-performance code")
 
 # ----------------------------- SIDEBAR INPUTS -------------------------------
