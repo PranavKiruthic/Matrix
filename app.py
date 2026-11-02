@@ -7,7 +7,7 @@ import streamlit as st
 st.set_page_config(page_title="Aircraft Performance Analysis", page_icon="✈️", layout="wide")
 
 # ----------------------------- PAGE STYLE ------------------------------------
-st.title("✈️ Aircraft Performance Analysis")
+st.title("G Pranav Kiruthic(1MS24AS059)"\n"Vishal(1MS24AS059)"\n"✈️ Aircraft Performance Analysis")
 st.caption("Interactive Flight Dynamics calculator | Based on the supplied aircraft-performance code")
 
 # ----------------------------- SIDEBAR INPUTS -------------------------------
