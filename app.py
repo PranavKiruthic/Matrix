@@ -13,7 +13,7 @@ st.markdown("""
 
 Gajulla Pranav Kiruthic (1MS24AS059)
 
-Vishal (1MS24AS059)
+Vishal (1MS24AS056)
 """)
 st.caption("Interactive Flight Dynamics calculator | Based on the supplied aircraft-performance code")
 
